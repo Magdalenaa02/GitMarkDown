@@ -10,7 +10,7 @@ More text with two line breaks between.
  - indented
    1. inner number
    
-[this is the description] (http://www.github.com)
+[this is the description](http://github.com)
    
 This paragraph has some `variable` inline code.
 
